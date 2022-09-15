@@ -1,4 +1,4 @@
-https://movie-raview-app.netlify.app/
+https://movie-review-search-app.netlify.app/
 
 # Getting Started with Create React App
 
