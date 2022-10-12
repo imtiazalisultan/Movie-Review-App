@@ -38,10 +38,10 @@ const AppProvider=({children})=>{
     };
 
     useEffect(()=>{
-            //deboun
+            //debouncing method==> to write the text in input and then we render the function; otherwise it will render after every word typing
             
        let timerOut= setTimeout(()=>{
-        console.log("Ashish");
+       
             getMovies(`${API_URL}&s=${query}`);
         },500)
 
