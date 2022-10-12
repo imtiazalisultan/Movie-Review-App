@@ -1,4 +1,4 @@
-https://movie-review-search-app.netlify.app/
+LIVE HOST: https://movie-review-search-app.netlify.app/
 
 # Getting Started with Create React App
 
