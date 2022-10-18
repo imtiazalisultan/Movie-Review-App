@@ -1,5 +1,14 @@
 LIVE HOST: https://movie-review-search-app.netlify.app/
 
+Description : This App provides information about the latest movies released or being released. It shows reviews by users, ratings by users.
+Information related to Films, Television Series, Home Videos, Video Games etc.
+By presenting each show's basic information in a UI, you can have the end-user pick a specific entry from that list, with the use of Context-API.
+
+Features : It is Responsive Website.
+
+Tech-Stack Used : HTML, CSS, REACT-JS, JSX, API etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
